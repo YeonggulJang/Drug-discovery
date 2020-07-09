@@ -1,1 +1,2 @@
-read_smiles_csv
+https://github.com/molecularsets/moses
+https://github.com/deepchem/deepchem
